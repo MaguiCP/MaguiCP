@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-👋 Hello, I'm Margarida!  </br>
+👋 **Hello, I'm Margarida!**  </br>
 
-🎓 Currently pursuing a Master's degree in Software Engineering. </br>
+🎓 Currently pursuing a **Master's degree** in **Software Engineering.** </br>
 
 🌱 I’m learning **JavaScript** while developing **BudgetBuddy**, an API designed to help users manage their finances and track transactions for better personal financial management.  </br>
 
