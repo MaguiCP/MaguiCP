@@ -19,13 +19,14 @@
 <div style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 48%; height: 200px; border-radius: 10px; object-fit: cover;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 48%; height: 200px; border-radius: 10px; object-fit: cover;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 35%; height: 200px; border-radius: 10px; object-fit: cover;"/> <!-- Tornando o gráfico de linguagens menor -->
   </div>
 
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false" style="width: 60%; border-radius: 10px;"/>
 </div>
+
 
 
 
