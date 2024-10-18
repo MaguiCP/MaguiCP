@@ -5,6 +5,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/currently%20learning%20javascript-purple">
 
 ![Magui's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&show_icons=true)
+
+</div>
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </div>
 <!--
