@@ -17,16 +17,19 @@
 # 📊 GitHub Stats:
 
 <div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 49%; height: 200px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 49%; height: 200px;"/>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 60%; height: auto; max-height: 300px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 30%; height: auto; max-height: 300px;"/>
   </div>
 
   <br/>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false"/>
+
+  <div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false" style="width: 70%;"/>
   </div>
 </div>
+
+
 
 
 
