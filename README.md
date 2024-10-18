@@ -16,25 +16,14 @@
 
 # 📊 GitHub Stats:
 
-<div style="text-align: center;">
-  <div style="display: flex; justify-content: center; gap: 40px;">
-    <div style="display: flex; flex-direction: column; align-items: flex-start;"> <!-- Novo div para alinhar a esquerda -->
-      <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 55%; border-radius: 10px;"/>
-      <div style="height: 10px;"></div> <!-- Espaço abaixo do gráfico da esquerda -->
-    </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 35%; border-radius: 10px;"/>
-  </div>
-
+<div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false" style="width: 60%; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 48%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 48%; height: 200px;"/>
   </div>
+<br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false"/>
 </div>
-
-
-
-
-
-
 
 ### ✍️ Random Dev Quote
 
