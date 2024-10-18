@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-Hi
+👋 Hello, I'm Margarida! <br>
+
+🎓 I'm currently pursuing a Master's degree in **Software Engineering**. <br>
+
+🌱 Currently learning **JavaScript** while developing **BudgetBuddy**, an API to manage users and track transactions for better personal finance management. <br>
 
 ## 🌐 Socials:
 
@@ -12,9 +16,19 @@ Hi
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 49%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 49%; height: 200px;"/>
+  </div>
+
+  <br/>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false"/>
+  </div>
+</div>
+
+
 
 ### ✍️ Random Dev Quote
 
