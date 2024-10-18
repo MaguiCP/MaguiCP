@@ -18,7 +18,7 @@
 
 <div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 48%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 48%; height: 300px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 48%; height: 200px;"/>
   </div>
 <br>
