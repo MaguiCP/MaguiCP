@@ -17,17 +17,18 @@
 # 📊 GitHub Stats:
 
 <div>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 55%; height: auto; max-height: 200px; margin-top: -15px;"/> <!-- Margem negativa para subir o gráfico -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 35%; height: auto; max-height: 200px; margin-top: 0;"/> <!-- Margem no gráfico da direita -->
+  <div style="display: flex; justify-content: center; gap: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs" style="width: 55%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 35%;"/>
   </div>
 
   <br/>
 
-  <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false" style="width: 60%; height: auto; max-height: 200px;"/>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false"/>
   </div>
 </div>
+
 
 
 
