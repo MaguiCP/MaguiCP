@@ -17,11 +17,8 @@
 # 📊 GitHub Stats:
 
 <div>
-  <div>
     <img height=170px src="https://github-readme-stats.vercel.app/api?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&hide=issues,prs"/>
     <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaguiCP&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </div>
-  <img height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=MaguiCP&theme=material-palenight&hide_border=false"/>
 </div>
 
 
