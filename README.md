@@ -4,7 +4,7 @@
 
 🎓 Currently pursuing a **Master's degree** in **Software Engineering.** </br>
 
-🌱 I’m learning **JavaScript** while developing **BudgetBuddy**, an API designed to help users manage their finances and track transactions for better personal financial management. I'm also enhancing my Postman skills by using it to test the API. </br>
+🌱 I have a personal project named **BudgetBuddy**, an API designed to help users manage their finances and track transactions for better personal financial management. </br>
 
 ## 🌐 Socials:
 
